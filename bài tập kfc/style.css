@@ -1,0 +1,61 @@
+body {
+	font-family: Arial, sans-serif;
+	margin: 0;
+	padding: 0;
+}
+
+.header-title {
+	background-color: red;
+	color: white;
+	text-align: left;
+	padding: 10px;
+}
+
+.nav-links {
+	font-size: 20px;
+	padding: 15px;
+}
+
+.section {
+	padding: 20px;
+}
+
+.brown-bg {
+	color: white;
+	background-color: brown;
+}
+
+.section-title {
+	text-align: center;
+	font-size: 40px;
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+.section-text {
+	font-size: 30px;
+	text-align: justify;
+}
+
+.highlight {
+	color: black;
+}
+
+.milestones {
+	font-size: 25px;
+}
+
+.price-title {
+	text-align: center;
+	font-size: 35px;
+	margin: 20px 0;
+}
+
+.price-table {
+	width: 900px;
+	height: 800px;
+	margin: 0 auto;
+	border-collapse: collapse;
+	text-align: center;
+}
